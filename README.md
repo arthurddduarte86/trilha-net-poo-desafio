@@ -1,6 +1,8 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
+## DESAFIO FEITO: ARTHUR DUARTE
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
